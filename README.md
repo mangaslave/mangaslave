@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Full-Satck Web Developer, currently located in *Vacouver, Canada*
+I'm a Full-Satck Web Developer, currently located in *Vacouver, Canada*
 
 I love building intuitive, responsive, and inclusive web apps that make people’s lives easier. Whether it's front-end design or back-end logic, I'm always excited to learn and create.
 
